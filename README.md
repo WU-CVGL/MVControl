@@ -1,7 +1,4 @@
 # MVControl
-Official implementation of MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation
-
-# MVControl
 
 [**Paper**](https://arxiv.org/abs/2311.14494) | [**Project Page**](https://lizhiqi49.github.io/MVControl/)
 
